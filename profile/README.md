@@ -154,7 +154,7 @@ PROJECT-VACANT-LATTICE  [ Coming Soon ]
 
 <sub>
 
-`[ EST. 2025 ]` · `[ AUSTIN, TX ]`
+`[ EST. 2025 ]` · `[ PALMDALE, CA ]`
 
 </sub>
 
