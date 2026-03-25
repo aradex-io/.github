@@ -111,8 +111,8 @@ Continuous supply-chain security monitoring for your dependency tree. Track vuln
 PROJECT-SHADOWCORE ···· GPU firmware reverse engineering & security research
 PROJECT-HIVEFUZZ ······ Distributed fuzzing infrastructure (Rust)
 PROJECT-FLOORPLAN ····· WiFi FTM precision indoor positioning systems
-PROJECT-PATCHWORK ····· [ CLASSIFIED ]
-PROJECT-VACANT-LATTICE  [ CLASSIFIED ]
+PROJECT-PATCHWORK ····· [ Coming soon ]
+PROJECT-VACANT-LATTICE  [ Coming Soon ]
 ```
 
 <br>
